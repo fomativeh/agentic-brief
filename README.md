@@ -2,6 +2,9 @@
 
 A small, resumable LangGraph workflow that calls real external APIs (Wikipedia + Crossref) and keeps state across runs via a SQLite checkpointer.
 
+![](https://github.com/user-attachments/assets/19f40136-988c-4e97-b9b1-fe3ff6671d3e)
+
+
 ## What it does
 
 Given a topic, it produces a short markdown “brief” for a target audience:
